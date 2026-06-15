@@ -217,5 +217,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# pré-processamento
+# pré-processamento e modelagem
 data/processed/
+models/
+results/
